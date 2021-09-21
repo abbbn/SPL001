@@ -1,3 +1,3 @@
 # SPL001
 
-Hallo das is unser erstes Git Projekt
+Hallo das ist unser erstes Git Projekt
